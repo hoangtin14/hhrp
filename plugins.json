@@ -1,10 +1,10 @@
 [
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=yanhh3d.nyc&sz=%size%",
-        "fileHash": "sha256-f4018cfad1800ea47396c77d7025cbf85e5af52e7e307103e876b973b140f5fc",
+        "fileHash": "sha256-fa21b66816d3777de98191fc56d0391f5c61846cb543eb1fd705de721c99d937",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/hoangtin14/hhrp",
-        "fileSize": 28080,
+        "fileSize": 28079,
         "status": 1,
         "language": "vi",
         "authors": [
@@ -13,7 +13,7 @@
         "tvTypes": [
             "Anime"
         ],
-        "version": 1,
+        "version": 2,
         "internalName": "YanHH3D",
         "description": "YanHH3D \u2014 Ho\u1ea1t h\u00ecnh Trung Qu\u1ed1c thuy\u1ebft minh/vietsub",
         "url": "https://raw.githubusercontent.com/hoangtin14/hhrp/main/YanHH3D.cs3",
