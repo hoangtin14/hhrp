@@ -1,5 +1,26 @@
 [
     {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=phimmoic.biz&sz=%size%",
+        "fileHash": "sha256-daefe1e8d57db4f26aae6f53e374e26b6632b5df33f897dd60a7856b8256c9e2",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/hoangtin14/hhrp",
+        "fileSize": 26752,
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "YanHH3D Plugin"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 1,
+        "internalName": "PhimMoiC",
+        "description": "PhimMoiC \u2014 Phim m\u1edbi Vietsub, Thuy\u1ebft Minh ch\u1ea5t l\u01b0\u1ee3ng cao",
+        "url": "https://raw.githubusercontent.com/hoangtin14/hhrp/main/PhimMoiC.cs3",
+        "name": "PhimMoiC"
+    },
+    {
         "iconUrl": "https://www.google.com/s2/favicons?domain=yanhh3d.nyc&sz=%size%",
         "fileHash": "sha256-d5b96e3dcbfec8749d8f41066933e33111635de6a51749499c69beee441a46ca",
         "apiVersion": 1,
