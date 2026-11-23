@@ -1,5 +1,27 @@
 [
     {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=lyngflix.xyz&sz=%size%",
+        "fileHash": "sha256-c8373f73a56ee4bc55f8cf7e3387b2ca792bc7959b8c7effed40081871f77bad",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/hoangtin14/hhrp",
+        "fileSize": 25111,
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "YanHH3D Plugin"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime"
+        ],
+        "version": 1,
+        "internalName": "LyngFlix",
+        "description": "LyngFlix \u2014 Phim l\u1ebb, phim b\u1ed9, ho\u1ea1t h\u00ecnh Vietsub, Thuy\u1ebft Minh, L\u1ed3ng Ti\u1ebfng",
+        "url": "https://raw.githubusercontent.com/hoangtin14/hhrp/main/LyngFlix.cs3",
+        "name": "LyngFlix"
+    },
+    {
         "iconUrl": "https://www.google.com/s2/favicons?domain=phimmoic.biz&sz=%size%",
         "fileHash": "sha256-123c7e5847796a682bb6e286172fc114052966a7e3d4d0cc77fd16342c13cd3a",
         "apiVersion": 1,
